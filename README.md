@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Madeline ₍^. .^₎⟆
 
-<!--
-**zhav0ronok/zhav0ronok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚬──────────✧──────────⚬  
 
-Here are some ideas to get you started:
+╰┈➤ I am a second year physics student at Cornell University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+╰┈➤ In my spare time, I love all things Linux
+
+╰┈➤ Currently working on a hyprland config and an mp3 player desktop app! 
+
+Stick around for more projects soon! 
+
+⚬──────────✧──────────⚬  
+
+![profile art](https://www.shutterstock.com/image-vector/background-game-cartoon-pixel-art-600nw-2604930167.jpg)
