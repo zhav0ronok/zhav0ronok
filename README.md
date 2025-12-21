@@ -1,4 +1,4 @@
-## Hi, I'm Madeline ₍^. .^₎⟆
+## Hi, I'm Maddie ₍^. .^₎⟆
 
 ⚬──────────✧──────────⚬  
 
@@ -6,10 +6,11 @@
 
 ╰┈➤ In my spare time, I love all things Linux
 
-╰┈➤ Currently working on a hyprland config and an mp3 player desktop app! 
+╰┈➤ Currently working on a hyprland config and a media player desktop app! 
 
 Stick around for more projects soon! 
 
 ⚬──────────✧──────────⚬  
 
-![profile art](https://www.shutterstock.com/image-vector/background-game-cartoon-pixel-art-600nw-2604930167.jpg)
+![profile art](https://github.com/user-attachments/assets/f72504f1-fb42-4b24-9368-20d70a6c4376)
+
