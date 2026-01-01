@@ -6,7 +6,7 @@
 
 ╰┈➤ In my spare time, I love all things Linux
 
-╰┈➤ Currently working on a hyprland config and a media player desktop app! 
+╰┈➤ Currently working on learning rust and haskell!  
 
 Stick around for more projects soon! 
 
