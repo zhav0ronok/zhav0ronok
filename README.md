@@ -1,16 +1,16 @@
-## Hi, I'm Maddie ₍^. .^₎⟆
+## Hi, I'm 𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃
 
 ⚬──────────✧──────────⚬  
 
-╰┈➤ I am a second year physics student at Cornell University
+╰┈➤ 2nd year physics undergraduate @ Cornell with an interest in QC
 
-╰┈➤ In my spare time, I love all things Linux
+╰┈➤ Linux hobbyist 
 
-╰┈➤ Currently working on learning rust and haskell!  
+╰┈➤ Currently learning: rust and haskell
 
-Stick around for more projects soon! 
+Projects coming soon...
 
 ⚬──────────✧──────────⚬  
 
-![profile art](https://github.com/user-attachments/assets/f72504f1-fb42-4b24-9368-20d70a6c4376)
+![banner](https://github.com/user-attachments/assets/b1e94385-b156-4670-84cd-149544a734d5)
 
