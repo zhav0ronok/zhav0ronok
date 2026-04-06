@@ -11,6 +11,7 @@ on:
 
 permissions:
   contents: write
+  workflows: write
 
 # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
@@ -54,4 +55,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
