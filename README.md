@@ -4,8 +4,6 @@
 
 ╰┈➤ 2nd year physics undergraduate @ Cornell with an interest in QC
 
-╰┈➤ My quantum computing blog: [Saved By The Bell State](https://zhav0ronok.github.io/saved-by-the-bell-state/) (WIP)
-
 ╰┈➤ Linux hobbyist 
 
 ╰┈➤ Currently learning: rust and haskell
