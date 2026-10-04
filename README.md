@@ -12,6 +12,6 @@ Projects coming soon...
 
 ⚬──────────✧──────────⚬  
 
-![banner](https://github.com/user-attachments/assets/b1e94385-b156-4670-84cd-149544a734d5)
+![banner](https://github.com/user-attachments/assets/fcdaad51-423e-46d9-bfbb-ab5ea7c291c1)
 
 ![snake](https://github.com/zhav0ronok/zhav0ronok/blob/output/github-contribution-grid-snake.svg)
